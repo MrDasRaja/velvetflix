@@ -1,4 +1,4 @@
 User-agent: *
 Allow: /
 
-Sitemap: https://yourusername.github.io/velvetflix/sitemap.xml
+Sitemap: https://mrdasraja.github.io/velvetflix/sitemap.xml
