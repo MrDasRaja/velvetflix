@@ -23,7 +23,8 @@
     "banner": "https://via.placeholder.com/1200x630/13131f/0256e4?text=Solo+Leveling+Banner",
     "description": "In a world where hunters battle deadly monsters, the weakest hunter of all mankind gains a mysterious system that lets him level up alone.",
     "servers": [
-      { "name": "Server 1", "url": "https://www.youtube.com/embed/bssSj4cKsrI" }
+      { "name": "Server 1 (Sub)", "url": "https://www.youtube.com/embed/bssSj4cKsrI" },
+      { "name": "Server 2 (Dub)", "url": "https://www.youtube.com/embed/bssSj4cKsrI" }
     ]
   },
   {
@@ -36,7 +37,8 @@
     "banner": "https://via.placeholder.com/1200x630/13131f/d91c76?text=Kalki+2898+AD+Banner",
     "description": "A modern-day avatar of Vishnu descends to Earth to protect the world from evil forces in a dystopian future.",
     "servers": [
-      { "name": "Server 1", "url": "https://www.youtube.com/embed/kQDd1AhGIHk" }
+      { "name": "Server 1 (Hindi)", "url": "https://www.youtube.com/embed/kQDd1AhGIHk" },
+      { "name": "Server 2 (Telugu)", "url": "https://www.youtube.com/embed/kQDd1AhGIHk" }
     ]
   },
   {
@@ -49,7 +51,111 @@
     "banner": "https://via.placeholder.com/1200x630/13131f/8b5cf6?text=Bohurupi+Banner",
     "description": "A gripping cat-and-mouse thriller following a master of disguise and the relentless police officer determined to catch him.",
     "servers": [
-      { "name": "Server 1", "url": "https://www.youtube.com/embed/dQw4w9WgXcQ" }
+      { "name": "Server 1 (HD)", "url": "https://www.youtube.com/embed/Way9Dexny3w" }
+    ]
+  },
+  {
+    "id": "movie-5",
+    "title": "Pushpa 2: The Rule",
+    "year": 2024,
+    "quality": "4K",
+    "categories": ["Movies", "South", "Bollywood"],
+    "poster": "https://via.placeholder.com/400x600/1e1e2f/d91c76?text=Pushpa+2",
+    "banner": "https://via.placeholder.com/1200x630/13131f/d91c76?text=Pushpa+2+Banner",
+    "description": "Pushpa Raj expands his red sandalwood syndicate across borders while facing a fierce showdown with SP Bhanwar Singh Shekhawat.",
+    "servers": [
+      { "name": "Server 1 (HD)", "url": "https://www.youtube.com/embed/kQDd1AhGIHk" }
+    ]
+  },
+  {
+    "id": "movie-6",
+    "title": "Stree 2",
+    "year": 2024,
+    "quality": "1080p",
+    "categories": ["Movies", "Bollywood"],
+    "poster": "https://via.placeholder.com/400x600/1e1e2f/0256e4?text=Stree+2",
+    "banner": "https://via.placeholder.com/1200x630/13131f/0256e4?text=Stree+2+Banner",
+    "description": "The town of Chanderi is haunted once again, this time by a terrifying headless entity known as Sarkata.",
+    "servers": [
+      { "name": "Server 1 (HD)", "url": "https://www.youtube.com/embed/Way9Dexny3w" }
+    ]
+  },
+  {
+    "id": "movie-7",
+    "title": "Demon Slayer: Hashira Training",
+    "year": 2024,
+    "quality": "1080p",
+    "categories": ["Anime", "Series"],
+    "poster": "https://via.placeholder.com/400x600/1e1e2f/8b5cf6?text=Demon+Slayer",
+    "banner": "https://via.placeholder.com/1200x630/13131f/8b5cf6?text=Demon+Slayer+Banner",
+    "description": "Tanjiro undergoes rigorous training under the Stone Hashira to prepare for the impending final battle against Muzan Kibutsuji.",
+    "servers": [
+      { "name": "Server 1 (Sub)", "url": "https://www.youtube.com/embed/bssSj4cKsrI" }
+    ]
+  },
+  {
+    "id": "movie-8",
+    "title": "Stranger Things",
+    "year": 2025,
+    "quality": "4K HDR",
+    "categories": ["Series", "Hollywood"],
+    "poster": "https://via.placeholder.com/400x600/1e1e2f/d91c76?text=Stranger+Things",
+    "banner": "https://via.placeholder.com/1200x630/13131f/d91c76?text=Stranger+Things+Banner",
+    "description": "When a young boy vanishes, a small town uncovers a mystery involving secret experiments, terrifying supernatural forces, and one strange little girl.",
+    "servers": [
+      { "name": "Server 1 (HD)", "url": "https://www.youtube.com/embed/U2Qp5pL3ovA" }
+    ]
+  },
+  {
+    "id": "movie-9",
+    "title": "Khadaan",
+    "year": 2024,
+    "quality": "1080p",
+    "categories": ["Movies", "Bangla"],
+    "poster": "https://via.placeholder.com/400x600/1e1e2f/0256e4?text=Khadaan",
+    "banner": "https://via.placeholder.com/1200x630/13131f/0256e4?text=Khadaan+Banner",
+    "description": "Set in the coal mines of Damodar Valley, an action-packed saga of friendship, betrayal, and survival unfolds.",
+    "servers": [
+      { "name": "Server 1 (HD)", "url": "https://www.youtube.com/embed/kQDd1AhGIHk" }
+    ]
+  },
+  {
+    "id": "movie-10",
+    "title": "Jujutsu Kaisen",
+    "year": 2024,
+    "quality": "1080p",
+    "categories": ["Anime", "Series"],
+    "poster": "https://via.placeholder.com/400x600/1e1e2f/8b5cf6?text=Jujutsu+Kaisen",
+    "banner": "https://via.placeholder.com/1200x630/13131f/8b5cf6?text=Jujutsu+Kaisen+Banner",
+    "description": "A boy swallows a cursed talisman—the finger of a demon—and becomes cursed himself, entering a shaman school to locate the demon's other body parts.",
+    "servers": [
+      { "name": "Server 1 (Sub)", "url": "https://www.youtube.com/embed/bssSj4cKsrI" }
+    ]
+  },
+  {
+    "id": "movie-11",
+    "title": "Deadpool & Wolverine",
+    "year": 2024,
+    "quality": "4K",
+    "categories": ["Movies", "Hollywood"],
+    "poster": "https://via.placeholder.com/400x600/1e1e2f/d91c76?text=Deadpool+Wolverine",
+    "banner": "https://via.placeholder.com/1200x630/13131f/d91c76?text=Deadpool+Wolverine+Banner",
+    "description": "Deadpool is offered a place in the Marvel Cinematic Universe by the Time Variance Authority, recruiting a reluctant Wolverine to save his universe.",
+    "servers": [
+      { "name": "Server 1 (HD)", "url": "https://www.youtube.com/embed/U2Qp5pL3ovA" }
+    ]
+  },
+  {
+    "id": "movie-12",
+    "title": "Devara: Part 1",
+    "year": 2024,
+    "quality": "1080p",
+    "categories": ["Movies", "South"],
+    "poster": "https://via.placeholder.com/400x600/1e1e2f/0256e4?text=Devara+Part+1",
+    "banner": "https://via.placeholder.com/1200x630/13131f/0256e4?text=Devara+Banner",
+    "description": "A mighty sea warrior from a coastal village sets out to stop smuggling and protect his people, leaving a legacy feared across the waters.",
+    "servers": [
+      { "name": "Server 1 (HD)", "url": "https://www.youtube.com/embed/kQDd1AhGIHk" }
     ]
   }
 ]
