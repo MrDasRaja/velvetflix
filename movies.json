@@ -1,0 +1,55 @@
+[
+  {
+    "id": "movie-1",
+    "title": "Dune: Part Two",
+    "year": 2024,
+    "quality": "4K HDR",
+    "categories": ["Movies", "Hollywood"],
+    "poster": "https://via.placeholder.com/400x600/1e1e2f/8b5cf6?text=Dune+Part+Two",
+    "banner": "https://via.placeholder.com/1200x630/13131f/8b5cf6?text=Dune+Part+Two+Banner",
+    "description": "Paul Atreides unites with Chani and the Fremen while seeking revenge against the conspirators who destroyed his family.",
+    "servers": [
+      { "name": "Server 1 (HD)", "url": "https://www.youtube.com/embed/Way9Dexny3w" },
+      { "name": "Server 2 (Backup)", "url": "https://www.youtube.com/embed/U2Qp5pL3ovA" }
+    ]
+  },
+  {
+    "id": "movie-2",
+    "title": "Solo Leveling",
+    "year": 2025,
+    "quality": "1080p",
+    "categories": ["Anime", "Series"],
+    "poster": "https://via.placeholder.com/400x600/1e1e2f/0256e4?text=Solo+Leveling",
+    "banner": "https://via.placeholder.com/1200x630/13131f/0256e4?text=Solo+Leveling+Banner",
+    "description": "In a world where hunters battle deadly monsters, the weakest hunter of all mankind gains a mysterious system that lets him level up alone.",
+    "servers": [
+      { "name": "Server 1", "url": "https://www.youtube.com/embed/bssSj4cKsrI" }
+    ]
+  },
+  {
+    "id": "movie-3",
+    "title": "Kalki 2898 AD",
+    "year": 2024,
+    "quality": "1080p",
+    "categories": ["Movies", "South", "Bollywood"],
+    "poster": "https://via.placeholder.com/400x600/1e1e2f/d91c76?text=Kalki+2898+AD",
+    "banner": "https://via.placeholder.com/1200x630/13131f/d91c76?text=Kalki+2898+AD+Banner",
+    "description": "A modern-day avatar of Vishnu descends to Earth to protect the world from evil forces in a dystopian future.",
+    "servers": [
+      { "name": "Server 1", "url": "https://www.youtube.com/embed/kQDd1AhGIHk" }
+    ]
+  },
+  {
+    "id": "movie-4",
+    "title": "Bohurupi",
+    "year": 2024,
+    "quality": "1080p",
+    "categories": ["Movies", "Bangla"],
+    "poster": "https://via.placeholder.com/400x600/1e1e2f/8b5cf6?text=Bohurupi",
+    "banner": "https://via.placeholder.com/1200x630/13131f/8b5cf6?text=Bohurupi+Banner",
+    "description": "A gripping cat-and-mouse thriller following a master of disguise and the relentless police officer determined to catch him.",
+    "servers": [
+      { "name": "Server 1", "url": "https://www.youtube.com/embed/dQw4w9WgXcQ" }
+    ]
+  }
+]
